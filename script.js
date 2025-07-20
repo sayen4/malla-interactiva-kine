@@ -1,4 +1,3 @@
-// Malla organizada por semestre
 const malla = [
   {
     anio: 1,
@@ -26,7 +25,6 @@ const malla = [
       { id: 'edufisica', nombre: 'Educación física y salud', requisitos: [] },
     ]
   }
-  // Puedes agregar más años y semestres aquí siguiendo el mismo formato
 ];
 
 let estado = {};
